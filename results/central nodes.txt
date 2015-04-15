@@ -1,0 +1,83 @@
+698 
+Central Node for This cluster: 882
+executing: ./spanning temp_output/2/810.edges
+done
+Central Node for This cluster: 805
+executing: ./spanning temp_output/3/811.edges
+done
+Central Node for This cluster: 856
+
+686
+Central Node for This cluster: 748
+executing: ./spanning temp_output/2/687.edges
+done
+Central Node for This cluster: 696
+executing: ./spanning temp_output/3/687.edges
+done
+Central Node for This cluster: 736
+Set of Target Nodes are  set([696, 736, 748])
+
+
+414
+Central Node for This cluster: 645
+executing: ./spanning results/lastrun/temp_output/2/573.edges
+done
+Central Node for This cluster: 597
+executing: ./spanning results/lastrun/temp_output/3/576.edges
+done
+Central Node for This cluster: 647
+Set of Target Nodes are  set([647, 645, 597])
+
+3980
+Central Node for This cluster: 3982
+executing: ./spanning results/lastrun/temp_output/2/3981.edges
+done
+Central Node for This cluster: 4004
+executing: ./spanning results/lastrun/temp_output/3/3981.edges
+done
+Central Node for This cluster: 4019
+Set of Target Nodes are  set([4019, 4004, 3982])
+
+
+0
+Central Node for This cluster: 303
+executing: ./spanning results/lastrun/temp_output/2/1.edges
+done
+Central Node for This cluster: 130
+executing: ./spanning results/lastrun/temp_output/3/9.edges
+done
+Central Node for This cluster: 122
+Set of Target Nodes are  set([130, 122, 303])
+
+
+348
+Central Node for This cluster: 436
+executing: ./spanning results/lastrun/temp_output/2/350.edges
+done
+Central Node for This cluster: 493
+executing: ./spanning results/lastrun/temp_output/3/353.edges
+done
+Central Node for This cluster: 553
+Set of Target Nodes are  set([553, 436, 493])
+
+
+3437
+Central Node for This cluster: 3627
+executing: ./spanning results/lastrun/temp_output/2/3441.edges
+done
+Central Node for This cluster: 3694
+executing: ./spanning results/lastrun/temp_output/3/3442.edges
+done
+Central Node for This cluster: 3510
+Set of Target Nodes are  set([3627, 3510, 3694])
+
+1684
+Central Node for This cluster: 2781
+executing: ./spanning results/lastrun/temp_output/2/2662.edges
+done
+Central Node for This cluster: 3369
+executing: ./spanning results/lastrun/temp_output/3/2661.edges
+done
+Central Node for This cluster: 3129
+Set of Target Nodes are  set([3369, 2781, 3129])
+

@@ -1,0 +1,16 @@
+for i in 1 to 100(say)
+ get clusters with minimum loss
+-- 1st level --
+for each cluster
+	if log10(no of nodes in cluster) <= 2: find spanning tree directly
+
+	else
+		recurse step1 for this cluster
+		
+
+# 
+Find spanning tree from a given node
+TOPO SORT from that node, find node with max indegree, that node is the representative for that iter
+(optional: Run loop k no of times, pick one with max indegree)
+We now have one set of nodes, connect them, again do step 2 if no > threshold
+
